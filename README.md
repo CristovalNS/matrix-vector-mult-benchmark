@@ -52,25 +52,44 @@ Graph results of Time Complexity:
 The result shown bellow shows the space complexity of the function with different matrix sizes (N):
 
 N = 200:
+
 ![Space N = 1000](self_test_images/space_200.png)
+
 N = 400:
+
 ![Space N = 1000](self_test_images/space_400.png)
+
 N = 600:
+
 ![Space N = 1000](self_test_images/space_600.png)
+
 N = 800:
+
 ![Space N = 1000](self_test_images/space_800.png)
+
 N = 1000:
+
 ![Space N = 1000](self_test_images/space_1000.png)
+
 N = 1200:
+
 ![Space N = 1000](self_test_images/space_1200.png)
+
 N = 1400:
+
 ![Space N = 1000](self_test_images/space_1400.png)
+
 N = 1600:
+
 ![Space N = 1000](self_test_images/space_1600.png)
+
 N = 1800:
+
 ![Space N = 1000](self_test_images/space_1800.png)
+
 N = 2000:
+
 ![Space N = 1000](self_test_images/space_2000.png)
 
 Graph results of Space Complexity:
-![Space N = 1000](self_test_images/Spacegraph.png)
+![Space N = 1000](self_test_images/SpaceGraph.png)
